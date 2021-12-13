@@ -16,6 +16,8 @@
 - [Features](#features)
 - [Info](docs/README.md)
   - [Requirements](#requirements)
+  - [Support](#support) 
+  - [License](#license)
 ## Features
 
 - <i>Custom Commands (Max 25 per Normal Guild.)</i>
@@ -49,13 +51,22 @@
   - Mute Member's
   - Send Messages
 
-## Support Leno™
+## Support
 
 ### All stars/forks are appreciated! ⚡
 
 **Feel free to open a pull request with a new feature.**
 
 Made with ❤️ and JavaScript!
+
+## License
+
+*[Apache © JosephTheCreator](./LICENSE)*
+
+## Legal
+
+*If you have any concerns about your data, privacy or security, please [Join Our Support Server](https://discord.gg/qCZXvbNJ9d) and look for the #rules category else [Click Here]().*
+
 
 ## Progress Commands
 

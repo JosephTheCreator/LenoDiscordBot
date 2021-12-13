@@ -13,6 +13,8 @@
 [![license](https://img.shields.io/npm/l/discord.js)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------)
 [![dependencies](https://img.shields.io/hackage-deps/v/di)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------) 
 [![node](https://img.shields.io/node/v/discord.js)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------) 
+[![mongoose](https://img.shields.io/node/v/mongoose?label=Database)](https://www.npmjs.com/package/mongoose)
+[![quick](https://img.shields.io/node/v/quick?label=SQL)](https://www.npmjs.com/package/quick.db) 
 ## Table of Content
 - [Features](#features)
 - [Info](docs/README.md)

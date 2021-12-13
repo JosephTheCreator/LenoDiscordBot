@@ -4,17 +4,22 @@
 
 - *Myself **Joseph J M** Founder👑 and Creator💻 of **Leno™ Discord Bot***
 
+[![github](https://img.shields.io/github/followers/JosephTheCreator?style=social)](https://github.com/JosephTheCreator)
+
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flenobotdiscord)](https://twitter.com/lenobotdiscord) 
 ## Introduction
 
 - ***Leno™ is a Advanced-rich Discord bot with +75 commands for Discord servers. Economy, Custom Commands, Moderation, Custom Embeds, Tools and more! Built with Discord.js.***
 
 [![INVITE](https://img.shields.io/badge/Invite-Leno%E2%84%A2-brightgreen)](https://discord.com/api/oauth2/authorize?client_id=860445158519341079&permissions=167441329270&redirect_uri=https%3A%2F%2Fdiscord.gg%2FqCZXvbNJ9d&response_type=code&scope=guilds.join%20bot%20applications.commands) 
-[![BANNER](https://img.shields.io/badge/Join-Support%20Server-blue)](https://discord.gg/qCZXvbNJ9d) 
+[![BANNER](https://img.shields.io/badge/Join-Support%20Server-blue)](https://discord.gg/qCZXvbNJ9d)
 [![license](https://img.shields.io/npm/l/discord.js)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------)
 [![dependencies](https://img.shields.io/hackage-deps/v/di)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------) 
 [![node](https://img.shields.io/node/v/discord.js)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------) 
 [![mongoose](https://img.shields.io/node/v/mongoose?label=Database)](https://www.npmjs.com/package/mongoose)
-[![quick](https://img.shields.io/node/v/quick?label=SQL)](https://www.npmjs.com/package/quick.db) 
+[![quick](https://img.shields.io/node/v/quick?label=SQL)](https://www.npmjs.com/package/quick.db)
+
+[![commit](https://img.shields.io/github/last-commit/JosephTheCreator/lenodiscordbot)](https://github.com/JosephTheCreator) 
 ## Table of Content
 - [Features](#features)
 - [Info](docs/README.md)

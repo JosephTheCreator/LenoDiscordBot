@@ -1,12 +1,12 @@
 ## 👋Hello
 
-<b>Welcome to Leno™ Discord Bot</b>
+**Welcome to Leno™ Discord Bot**
 
-- <i>Myself <b>Joseph J M</b> Founder👑 and Creator💻 of <b>Leno™ Discord Bot</b></i>
+- *Myself **Joseph J M** Founder👑 and Creator💻 of **Leno™ Discord Bot***
 
 ## Introduction
 
-- <i><b>Leno™ is a Advanced-rich Discord bot with +75 commands for Discord servers. Economy, Custom Commands, Moderation, Custom Embeds, Tools and more! Built with Discord.js.</b></i>
+- ***Leno™ is a Advanced-rich Discord bot with +75 commands for Discord servers. Economy, Custom Commands, Moderation, Custom Embeds, Tools and more! Built with Discord.js.***
 
 [![INVITE](https://img.shields.io/badge/Invite-Leno%E2%84%A2-brightgreen)](https://discord.com/api/oauth2/authorize?client_id=860445158519341079&permissions=167441329270&redirect_uri=https%3A%2F%2Fdiscord.gg%2FqCZXvbNJ9d&response_type=code&scope=guilds.join%20bot%20applications.commands) 
 [![BANNER](https://img.shields.io/badge/Join-Support%20Server-blue)](https://discord.gg/qCZXvbNJ9d) 
@@ -16,22 +16,25 @@
 - [Features](#features)
 - [Info](docs/README.md)
   - [Requirements](#requirements)
+  - [Commands](#requirements)
   - [Support](#support) 
   - [License](#license)
+- [Legal](#legal)
+- [Progress](#progress)
 ## Features
 
-- <i>Custom Commands (Max 25 per Normal Guild.)</i>
-- <i>Economy System (Under Progress)</i>
-- <i>Custom Welcome / Leave Background Changer.</i>
-- <i>Custom Embed Messages, Thumbnail, Full Embed etc.</i> 
-- <i>Prefix Customization Available.</i>
-- <i>Advance Moderation Features, also ableable to check Warn Log's.</i>
-- <i>Advance Suggestion System, able to accept and deny suggestion.</i>
-- <i>Customize available for Welcome / Leave Log channels.</i>
-- <i>& More Features available.</i>
+- *Custom Commands (Max 25 per Normal Guild.)*
+- *Economy System (Under Progress)*
+- *Custom Welcome / Leave Background Changer.*
+- *Custom Embed Messages, Thumbnail, Full Embed etc.*
+- *Prefix Customization Available.*
+- *Advance Moderation Features, also ableable to check Warn Log's.*
+- *Advance Suggestion System, able to accept and deny suggestion.*
+- *Customize available for Welcome / Leave Log channels.*
+- *& More Features available.*
 
 ## Requirements
-- <i>Discord Server Permission Level Check</i>
+- **Discord Server Permission Level Check**
   - Manage Server
   - Manage Roles
   - Manage Emojis and Stickers
@@ -51,6 +54,8 @@
   - Mute Member's
   - Send Messages
 
+## Commands
+
 ## Support
 
 ### All stars/forks are appreciated! ⚡
@@ -68,7 +73,6 @@ Made with ❤️ and JavaScript!
 *If you have any concerns about your data, privacy or security, please [Join Our Support Server](https://discord.gg/qCZXvbNJ9d) and look for the #rules category else [Click Here]().*
 
 
-## Progress Commands
+## Progress
 
-- [ ] Economy System (Currency System). 
-:electron:
+- [ ] Economy System (Currency System). :electron:

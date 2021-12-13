@@ -12,6 +12,7 @@
 [![BANNER](https://img.shields.io/badge/Join-Support%20Server-blue)](https://discord.gg/qCZXvbNJ9d) 
 [![license](https://img.shields.io/npm/l/discord.js)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------)
 [![dependencies](https://img.shields.io/hackage-deps/v/di)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------) 
+[![node](https://img.shields.io/node/v/discord.js)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------) 
 ## Table of Content
 - [Features](#features)
 - [Info](docs/README.md)

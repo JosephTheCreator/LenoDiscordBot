@@ -153,4 +153,4 @@ Made with ❤️ and JavaScript!
 
 ## Progress
 
-- [x] Economy System (Currency System). :electron:
+- [ ] Reminder | Interval

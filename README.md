@@ -32,8 +32,8 @@
 ## Features
 
 - *Custom Commands (Max 25 per Normal Guild.)*
-- *Economy System (Under Progress)*
-- *Custom Welcome / Leave Background Changer.*
+- *Dragon Economy System with cool Dragon's added*
+- *Custom Welcome / Leave / Boost Message.*
 - *Custom Embed Messages, Thumbnail, Full Embed etc.*
 - *Prefix Customization Available.*
 - *Advance Moderation Features, also ableable to check Warn Log's.*
@@ -43,24 +43,24 @@
 
 ## Requirements
 - **Discord Server Permission Level Check**
-  - Manage Server
-  - Manage Roles
-  - Manage Emojis and Stickers
-  - Manage Messages
-  - Manage Nicknames
-  - Manage Channel
-  - Manage Webhooks
-  - Embed links
-  - Attach File
-  - Use External Emoji
-  - Add Reaction
-  - Kick Members / Ban Members
-  - Manage Threads
-  - Use Application Commands
-  - Mention @everyone, @here and All Roles. 
-  - Read Message History
-  - Mute Member's
-  - Send Messages
+  - [ ] Manage Server
+  - [ ] Manage Roles
+  - [ ] Manage Emojis and Stickers
+  - [x] Manage Messages (Mandatory)
+  - [ ] Manage Nicknames
+  - [ ] Manage Channel
+  - [ ] Manage Webhooks
+  - [x] Embed links (Mandatory)
+  - [ ] Attach File
+  - [x] Use External Emoji (Recommended)
+  - [ ] Add Reaction
+  - [x] Kick Members / Ban Members (Recommended for Moderator Command's)
+  - [ ] Manage Threads
+  - [ ] Use Application Commands
+  - [ ] Mention @everyone, @here and All Roles. 
+  - [x] Read Message History (Mandatory)
+  - [ ] Mute Member's
+  - [x] Send Messages (Mandatory)
 
 ## Commands
 
@@ -83,4 +83,4 @@ Made with ❤️ and JavaScript!
 
 ## Progress
 
-- [ ] Economy System (Currency System). :electron:
+- [x] Economy System (Currency System). :electron:

@@ -10,6 +10,11 @@
 ## Introduction
 
 - ***Leno™ is a Advanced-rich Discord bot with +75 commands for Discord servers. Economy, Custom Commands, Moderation, Custom Embeds, Tools and more! Built with Discord.js.***
+- ***For knowing your Server Prefix of our bot just mention our Bot, that will display your server prefix.***
+
+## Additional Info
+- ***Dragon Currency System, the coolest economy ever,  give a try today itself.***
+- ***Vote our Bot and Claim the Golden ticket everyday, this tickets will help's you to purchase Dragon.***
 
 [![INVITE](https://img.shields.io/badge/Invite-Leno%E2%84%A2-brightgreen)](https://discord.com/api/oauth2/authorize?client_id=860445158519341079&permissions=167441329270&redirect_uri=https%3A%2F%2Fdiscord.gg%2FqCZXvbNJ9d&response_type=code&scope=guilds.join%20bot%20applications.commands) 
 [![BANNER](https://img.shields.io/badge/Join-Support%20Server-blue)](https://discord.gg/qCZXvbNJ9d)
@@ -66,68 +71,68 @@
 
 ## Premium
 - **Premium Commands**
-  - <prefix>custom-embed [#channelname] [title] [description] [embed color]
-  - <prefix>custom-thumbnail [#channelname] [title] [description] [embed color] [image Url]
-  - <prefix>sendembed [#channelname] [title] [description] [embed color] [image Url] [image url]
-  - <prefix>sendimage [#channelname] [embed color] [image Url]
-  - <prefix>custom [Commandname] [Response message] => Ex: <prefix>custom Hi Hey dude, How are you?
+  - [prefix]custom-embed [#channelname] [title] [description] [embed color]
+  - [prefix]custom-thumbnail [#channelname] [title] [description] [embed color] [image Url]
+  - [prefix]sendembed [#channelname] [title] [description] [embed color] [image Url] [image url]
+  - [prefix]sendimage [#channelname] [embed color] [image Url]
+  - [prefix]custom [Commandname] [Response message] => Ex: <prefix>custom Hi Hey dude, How are you?
 
 ## Commands
 - **Help**
-  - <prefix>help (or) <prefix>h
+  - [prefix]help (or) <prefix>h
 - **Server Setup**
-  - <prefix>config
-  - <prefix>set [welcome | leave | boost | suggestion channel] [#channelname]
-  - <prefix>set [welcome | leave | boost | suggestion channel] [custom messages]
-  - <prefix>set nickname [@user (or) userid] [nickname]
-  - <prefix>set prefix [custom prefix]
-  - <prefix>reset
+  - [prefix]config
+  - [prefix]set [welcome | leave | boost | suggestion channel] [#channelname]
+  - [prefix]set [welcome | leave | boost | suggestion channel] [custom messages]
+  - [prefix]set nickname [@user (or) userid] [nickname]
+  - [prefix]set prefix [custom prefix]
+  - [prefix]reset
 - **Dragon Economy System**
-  - <prefix>bal | <prefix>profile
-  - <prefix>feed
-  - <prefix>play
-  - <prefix>claim
-  - <prefix>shop
-  - <prefix>buy <itemid>
-  - <prefix>learn [fight | tidal | strike | firepower] (Dragon Learning Skills)
-  - <prefix>show (This will show your Dragon & Details)
-  - <prefix>work
+  - [prefix]bal | <prefix>profile
+  - [prefix]feed
+  - [prefix]play
+  - [prefix]claim
+  - [prefix]shop
+  - [prefix]buy <itemid>
+  - [prefix]learn [fight | tidal | strike | firepower] (Dragon Learning Skills this will unlock special command's)
+  - [prefix]show (This will show your Dragon & Details)
+  - [prefix]work
 - **Pre-Configured Embed Messages**
-  - <prefix>blackembed [#channelname] [Custom Message]
-  - <prefix>pinkembed [#channelname] [Custom Message]
-  - <prefix>greenembed [#channelname] [Custom Message]
-  - <prefix>redembed [#channelname] [Custom Message]
-  - <prefix>whitembed [#channelname] [Custom Message]
-  - <prefix>blueembed [#channelname] [Custom Message]
-  - <prefix>yellowembed [#channelname] [Custom Message]
+  - [prefix]blackembed [#channelname] [Custom Message]
+  - [prefix]pinkembed [#channelname] [Custom Message]
+  - [prefix]greenembed [#channelname] [Custom Message]
+  - [prefix]redembed [#channelname] [Custom Message]
+  - [prefix]whitembed [#channelname] [Custom Message]
+  - [prefix]blueembed [#channelname] [Custom Message]
+  - [prefix]yellowembed [#channelname] [Custom Message]
 - **Moderation Commands**
-  - <prefix>kick [@user (or) userid] [Kick Reason]
-  - <prefix>ban [@user (or) userid] [Ban Reason]
-  - <prefix>clear [1 - 100] (or) <prefix> clear [@user]
-  - <prefix>mute [@user] [seconds | minutes | days]
-  - <prefix>warn [@user (or) userid] [Warn Message]
-  - <prefix>warnings [@user (or) userid]
-  - <prefix>removewarn id <warnid> (or) <prefix>removewarn all (but Remove one by one only)
-  - <prefix> unmute [@user (or) userid]
-  - <prefix>unban [userid]
-  - <prefix>snipe
+  - [prefix]kick [@user (or) userid] [Kick Reason]
+  - [prefix]ban [@user (or) userid] [Ban Reason]
+  - [prefix]clear [1 - 100] (or) <prefix> clear [@user]
+  - [prefix]mute [@user] [seconds | minutes | days]
+  - [prefix]warn [@user (or) userid] [Warn Message]
+  - [prefix]warnings [@user (or) userid]
+  - [prefix]removewarn id <warnid> (or) [prefix]removewarn all (but Remove one by one only)
+  - [prefix]unmute [@user (or) userid]
+  - [prefix]unban [userid]
+  - [prefix]snipe
 - **Informative Commands**
-  - <prefix>announce [#channelname] [Custom message]
-  - <prefix>avatar
-  - <prefix>userinfo
-  - <prefix>serverinfo
-  - <prefix>support
+  - [prefix]announce [#channelname] [Custom message]
+  - [prefix]avatar
+  - [prefix]userinfo
+  - [prefix]serverinfo
+  - [prefix]support
 - **Partial Resetting**
-  - <prefix>pr prefix
-  - <prefix>pr nickname [@user]
+  - [prefix]pr prefix
+  - [prefix]pr nickname [@user]
 - **Tools & Utility Commands**
-  - <prefix>feedback [1-5] [Feedback Message]
-  - <prefix>suggestion [suggestion message]
-  - <prefix>acceptsuggest [Suggestion Message ID] [Accetp Reason]
-  - <prefix>denysuggest [Suggestion Message ID] [Deny Reason]
-  - <prefix>vote
-  - <prefix>credit
-  - <prefix>invite
+  - [prefix]feedback [1-5] [Feedback Message]
+  - [prefix]suggestion [suggestion message]
+  - [prefix]acceptsuggest [Suggestion Message ID] [Accetp Reason]
+  - [prefix]denysuggest [Suggestion Message ID] [Deny Reason]
+  - [prefix]vote
+  - [prefix]credit
+  - [prefix]invite
   
 ## Support
 

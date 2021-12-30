@@ -24,7 +24,8 @@
 - [Features](#features)
 - [Info](docs/README.md)
   - [Requirements](#requirements)
-  - [Commands](#requirements)
+  - [Premium](#premium)
+  - [Commands](#commands)
   - [Support](#support) 
   - [License](#license)
 - [Legal](#legal)
@@ -62,8 +63,72 @@
   - [ ] Mute Member's
   - [x] Send Messages (Mandatory)
 
-## Commands
 
+## Premium
+- **Premium Commands**
+  - <prefix>custom-embed [#channelname] [title] [description] [embed color]
+  - <prefix>custom-thumbnail [#channelname] [title] [description] [embed color] [image Url]
+  - <prefix>sendembed [#channelname] [title] [description] [embed color] [image Url] [image url]
+  - <prefix>sendimage [#channelname] [embed color] [image Url]
+  - <prefix>custom [Commandname] [Response message] => Ex: <prefix>custom Hi Hey dude, How are you?
+
+## Commands
+- **Help**
+  - <prefix>help (or) <prefix>h
+- **Server Setup**
+  - <prefix>config
+  - <prefix>set [welcome | leave | boost | suggestion channel] [#channelname]
+  - <prefix>set [welcome | leave | boost | suggestion channel] [custom messages]
+  - <prefix>set nickname [@user (or) userid] [nickname]
+  - <prefix>set prefix [custom prefix]
+  - <prefix>reset
+- **Dragon Economy System**
+  - <prefix>bal | <prefix>profile
+  - <prefix>feed
+  - <prefix>play
+  - <prefix>claim
+  - <prefix>shop
+  - <prefix>buy <itemid>
+  - <prefix>learn [fight | tidal | strike | firepower] (Dragon Learning Skills)
+  - <prefix>show (This will show your Dragon & Details)
+  - <prefix>work
+- **Pre-Configured Embed Messages**
+  - <prefix>blackembed [#channelname] [Custom Message]
+  - <prefix>pinkembed [#channelname] [Custom Message]
+  - <prefix>greenembed [#channelname] [Custom Message]
+  - <prefix>redembed [#channelname] [Custom Message]
+  - <prefix>whitembed [#channelname] [Custom Message]
+  - <prefix>blueembed [#channelname] [Custom Message]
+  - <prefix>yellowembed [#channelname] [Custom Message]
+- **Moderation Commands**
+  - <prefix>kick [@user (or) userid] [Kick Reason]
+  - <prefix>ban [@user (or) userid] [Ban Reason]
+  - <prefix>clear [1 - 100] (or) <prefix> clear [@user]
+  - <prefix>mute [@user] [seconds | minutes | days]
+  - <prefix>warn [@user (or) userid] [Warn Message]
+  - <prefix>warnings [@user (or) userid]
+  - <prefix>removewarn id <warnid> (or) <prefix>removewarn all (but Remove one by one only)
+  - <prefix> unmute [@user (or) userid]
+  - <prefix>unban [userid]
+  - <prefix>snipe
+- **Informative Commands**
+  - <prefix>announce [#channelname] [Custom message]
+  - <prefix>avatar
+  - <prefix>userinfo
+  - <prefix>serverinfo
+  - <prefix>support
+- **Partial Resetting**
+  - <prefix>pr prefix
+  - <prefix>pr nickname [@user]
+- **Tools & Utility Commands**
+  - <prefix>feedback [1-5] [Feedback Message]
+  - <prefix>suggestion [suggestion message]
+  - <prefix>acceptsuggest [Suggestion Message ID] [Accetp Reason]
+  - <prefix>denysuggest [Suggestion Message ID] [Deny Reason]
+  - <prefix>vote
+  - <prefix>credit
+  - <prefix>invite
+  
 ## Support
 
 ### All stars/forks are appreciated! ⚡

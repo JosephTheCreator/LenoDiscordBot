@@ -16,7 +16,7 @@
 - ***Dragon Currency System, the coolest economy ever,  give a try today itself.***
 - ***Vote our Bot and Claim the Golden ticket everyday, this tickets will help's you to purchase Dragon.***
 
-[![INVITE](https://img.shields.io/badge/Invite-Leno%E2%84%A2-brightgreen)](https://discord.com/api/oauth2/authorize?client_id=860445158519341079&permissions=167441329270&redirect_uri=https%3A%2F%2Fdiscord.gg%2FqCZXvbNJ9d&response_type=code&scope=guilds.join%20bot%20applications.commands) 
+[![INVITE](https://img.shields.io/badge/Invite-Leno%E2%84%A2-brightgreen)](https://discord.com/api/oauth2/authorize?client_id=860445158519341079&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FqCZXvbNJ9d&response_type=code&scope=guilds.join%20applications.commands%20bot) 
 [![BANNER](https://img.shields.io/badge/Join-Support%20Server-blue)](https://discord.gg/qCZXvbNJ9d)
 [![license](https://img.shields.io/npm/l/discord.js)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------)
 [![dependencies](https://img.shields.io/hackage-deps/v/di)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------) 
